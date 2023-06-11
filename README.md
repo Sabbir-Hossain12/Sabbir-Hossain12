@@ -40,13 +40,13 @@ I am a passionate and motivated Computer Science and Engineering graduate with a
 
 ## Extracuricular 
 
- 1.Freelance Web Developer 
+ 1. Freelance Web Developer 
 - Successfully completed multiple freelance web development projects for various clients.
 
- 2.Social Media Volunteer
+ 2. Social Media Volunteer
 - Gadget Root Bd( jan 5, 2020- present)
 
- 3.PC Building and Customization 
+ 3. PC Building and Customization 
 - Engaged in custom PC building for personal use and assisted friends and family members in building their own systems. Assembled and configured PCs, Ensuring proper installation of CPUs, GPUs, RAM, storage drives, and power supply units.
 
 ## Languages
