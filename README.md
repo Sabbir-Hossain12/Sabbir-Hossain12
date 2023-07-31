@@ -16,21 +16,21 @@ I am a passionate and motivated Computer Science and Engineering graduate with a
 ## Skills
 
 - Programming Languages: C, Java, PHP
-- Web Development: HTML, CSS, JavaScript
+- Web Development: HTML, CSS, JavaScript, PHP
 - Version Control: Git, GitHub
-- Object-Oriented Programming (OOP)
-- Database Management Systems (DBMS)
-- Problem Solving and Critical Thinking
+- Framework: Bootstrap
+- Database Management Systems (DBMS): SQL, MYSQL
+- Problem Solving and Critical Thinking.
 
 ## Projects
 
 - **Online Blood Management System**
   - Description: Developed a full-stack e-commerce website using MERN (MongoDB, Express, React, Node.js) stack. Implemented user authentication, product listing, shopping cart, and payment integration.
-  - Technologies: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB
+  - Technologies: HTML, CSS, JavaScript, Bootstrap, PHP, MYSQL
 
-- **Ecommerce Handycraft Web application with ChatBot**
+- **E-commerce Handycraft Web application with ChatBot**
   - Description: Built an AI chatbot using natural language processing techniques. It can understand and respond to user queries on a range of topics.
-  - Technologies: Python, Natural Language Processing (NLP) libraries
+  - Technologies: HTML, CSS, JavaScript, Bootstrap, PHP, MYSQL.
 
 
 ## Certifications
