@@ -1,6 +1,6 @@
 ### Hi there , my name is Sabbir Hossain.
 #### I am Backend Web Developer.
-![Cover picture](https://i.ibb.co/VqVrQ4p/20221107-133243.jpg)
+![Cover picture](20221107-133243.jpg)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sabbir-hossain-bb5619266/)
