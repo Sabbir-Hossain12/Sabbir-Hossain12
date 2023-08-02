@@ -1,7 +1,10 @@
-# Sabbir Hossain
+### Hi there , my name is Sabbir Hossain.
+#### I am Backend Web Developer.
+![Tux, the Linux mascot](https://i.ibb.co/VqVrQ4p/20221107-133243.jpg)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sabbir-hossain-bb5619266/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)]([https://www.johndoe.com](https://hsabbir36.blogspot.com/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)]((https://www.hsabbir36.blogspot.com/))
 
 ## About Me
 
@@ -15,28 +18,32 @@ I am a passionate and motivated Computer Science and Engineering graduate with a
 
 ## Skills
 
-- Programming Languages: C, Java, PHP
-- Web Development: HTML, CSS, JavaScript, PHP
-- Version Control: Git, GitHub
-- Framework: Bootstrap
-- Database Management Systems (DBMS): SQL, MYSQL
+- **Programming Languages**:C, Java, PHP, JavaScript
+- **Web Development**: HTML, CSS, JavaScript, PHP
+- **Version Control**: Git, GitHub
+- **Framework**: Bootstrap
+- **Database Management Systems (DBMS)**: SQL, MYSQL
 - Problem Solving and Critical Thinking.
 
 ## Projects
 
-- **Online Blood Management System**
-  - Description: Developed a full-stack e-commerce website using MERN (MongoDB, Express, React, Node.js) stack. Implemented user authentication, product listing, shopping cart, and payment integration.
-  - Technologies: HTML, CSS, JavaScript, Bootstrap, PHP, MYSQL
+- **Online Blood Management System- Donateblood**
+  - **Description**: Developed Online Blood Management System- Donateblood, which helps the patient around the country to search for their blood specific to their blood group, based on location. Also donor can Register into the system. Also added user Authentication and Admin dashboard( in progress).
+  - **Technologies**: HTML, CSS, JavaScript, Bootstrap, PHP, MYSQL
+ 
+  ***
+  
 
-- **E-commerce Handycraft Web application with ChatBot**
-  - Description: Built an AI chatbot using natural language processing techniques. It can understand and respond to user queries on a range of topics.
-  - Technologies: HTML, CSS, JavaScript, Bootstrap, PHP, MYSQL.
+- **E-commerce Web application- Handycraft**
+  - **Description**:  Developed a full-stack e-commerce website using HTML, CSS, JavaScript, Bootstrap, PHP, MYSQL. Implemented user authentication, product listing, shopping cart, Search,Delivery function and payment integration..
+  - **Technologies**: HTML, CSS, JavaScript, Bootstrap, PHP, MYSQL.
 
 
 ## Certifications
 
-- Coursera: [Introduction to Data Science](https://www.coursera.org/account/accomplishments/certificate123)
-- edX: [Machine Learning Fundamentals](https://www.edx.org/course/machine-learning-fundamentals)
+- Google: [The Bits and Bytes of Computer Networking](https://www.coursera.org/account/accomplishments/certificate/YUJY99WZMFLJ)
+- Google: [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/5E2MPTYNDBX8)
+- Udemy:  [JavaScript, Bootstrap, PHP - Certification Course for Beginners](https://youaccel.com/admin/certificate_gen/tcpdf/ya/certificate_ya2.php?certid=34292345)
 
 ## Extracuricular 
 
@@ -54,5 +61,10 @@ I am a passionate and motivated Computer Science and Engineering graduate with a
 - Bengali(Native)
 - English (Fluent)
 - Hindi (Intermediate)
+
+## Hobby
+- Movie/TV series
+- Video Game
+- Travelling 
 
 
