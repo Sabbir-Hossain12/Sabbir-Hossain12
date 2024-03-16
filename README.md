@@ -34,10 +34,11 @@
 
 
 ## Use To Code
-![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&labelColor=black&logo=php&logoColor=blue)
+![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&labelColor=black&logo=php&logoColor=AEB2D5)
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&labelColor=black&logo=laravel&logoColor=red)
 ![Axios](https://img.shields.io/badge/Axios-blue?style=for-the-badge&labelColor=black&logo=axios&logoColor=blue)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![jQuery](https://img.shields.io/badge/jQuery-78cff5?style=for-the-badge&labelColor=black&logo=jQuery&logoColor=78cff5 )
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
