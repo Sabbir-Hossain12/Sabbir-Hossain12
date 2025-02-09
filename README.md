@@ -1,5 +1,5 @@
 ### 👋 Hi there , My name is Sabbir Hossain.
-#### I am a Software Developer wotking at Danpite.tech.
+#### I am a Software Engineer working at Danpite.tech.
 ![Cover picture](cover.jpg)
 
 
